@@ -1,8 +1,8 @@
 [
   {
     "name": "VDI Metros",
-    "url": "www.vdimetros.cz",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://www.vdimetros.cz",
+    "icon": "https://icons.duckduckgo.com/ip3/www.vdimetros.cz.ico",
     "slug": "vdi-metros",
     "status": "up",
     "uptime": "100.00%",
@@ -10,17 +10,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2584,
-    "timeDay": 2584,
-    "timeWeek": 2584,
-    "timeMonth": 2584,
-    "timeYear": 2584,
+    "time": 2075,
+    "timeDay": 2075,
+    "timeWeek": 2075,
+    "timeMonth": 2075,
+    "timeYear": 2075,
     "dailyMinutesDown": {}
   },
   {
     "name": "Míša školka",
-    "url": "www.misaskolka.cz",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://www.misaskolka.cz",
+    "icon": "https://icons.duckduckgo.com/ip3/www.misaskolka.cz.ico",
     "slug": "misa-skolka",
     "status": "up",
     "uptime": "100.00%",
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5570,
-    "timeDay": 5570,
-    "timeWeek": 5570,
-    "timeMonth": 5570,
-    "timeYear": 5570,
+    "time": 3946,
+    "timeDay": 3946,
+    "timeWeek": 3946,
+    "timeMonth": 3946,
+    "timeYear": 3946,
     "dailyMinutesDown": {}
   }
 ]
