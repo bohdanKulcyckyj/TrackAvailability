@@ -4,19 +4,19 @@
     "url": "https://www.vdimetros.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.vdimetros.cz.ico",
     "slug": "vdi-metros",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1878,
-    "timeDay": 1718,
-    "timeWeek": 1878,
-    "timeMonth": 1878,
-    "timeYear": 1878,
+    "status": "up",
+    "uptime": "98.68%",
+    "uptimeDay": "98.01%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "98.68%",
+    "uptimeYear": "98.68%",
+    "time": 1819,
+    "timeDay": 1626,
+    "timeWeek": 1819,
+    "timeMonth": 1819,
+    "timeYear": 1819,
     "dailyMinutesDown": {
-      "2023-02-24": 0
+      "2023-02-24": 29
     }
   },
   {
