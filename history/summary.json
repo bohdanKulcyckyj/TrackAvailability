@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vdimetros.cz.ico",
     "slug": "vdi-metros",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
-    "time": 2194,
-    "timeDay": 5857,
-    "timeWeek": 2194,
-    "timeMonth": 2194,
-    "timeYear": 2194,
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
+    "time": 2213,
+    "timeDay": 2423,
+    "timeWeek": 2213,
+    "timeMonth": 2213,
+    "timeYear": 2213,
     "dailyMinutesDown": {
       "2023-02-24": 29
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3594,
-    "timeDay": 3995,
-    "timeWeek": 3594,
-    "timeMonth": 3594,
-    "timeYear": 3594,
+    "time": 3690,
+    "timeDay": 4551,
+    "timeWeek": 3690,
+    "timeMonth": 3690,
+    "timeYear": 3690,
     "dailyMinutesDown": {}
   }
 ]
