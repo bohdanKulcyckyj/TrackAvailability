@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.vdimetros.cz.ico",
     "slug": "vdi-metros",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.63%",
-    "uptimeMonth": "98.59%",
-    "uptimeYear": "98.59%",
+    "uptimeMonth": "98.64%",
+    "uptimeYear": "98.64%",
     "time": 3006,
     "timeDay": 2944,
     "timeWeek": 3444,
@@ -26,9 +26,9 @@
     "url": "https://www.misaskolka.cz",
     "icon": "https://icons.duckduckgo.com/ip3/www.misaskolka.cz.ico",
     "slug": "misa-skolka",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,8 @@
     "timeWeek": 3781,
     "timeMonth": 3763,
     "timeYear": 3763,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-08": 0
+    }
   }
 ]
